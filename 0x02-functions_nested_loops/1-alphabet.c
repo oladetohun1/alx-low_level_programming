@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabet -  function that prints the alphabet, 
+ * print_alphabet -  function that prints the alphabet,
  * in lowercase,followed by new line
  * _putchar - always prints one char to std output
  */
