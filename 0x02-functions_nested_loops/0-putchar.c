@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 /**
  * main - Entry level,to print _putchar
  * Putchar - prints one character at a time
