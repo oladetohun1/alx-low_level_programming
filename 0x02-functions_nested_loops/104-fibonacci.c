@@ -14,7 +14,7 @@ int main(void)
 
 	prev2 = 0;
 	prev1 = 1;
-	for (i = 0; i <= 98; i++)
+	for (i = 1; i <= 98; i++)
 	{
 		nextNum = prev1 + prev2;
 		if (i == 98)
