@@ -17,7 +17,7 @@ int main(void)
 	for (i = 0; i <= 98; i++)
 	{
 		nextNum = prev1 + prev2;
-		if (i == 97)
+		if (i == 98)
 			printf("%lu", nextNum);
 		else
 			printf("%lu, ", nextNum);
