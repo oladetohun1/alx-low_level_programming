@@ -3,7 +3,8 @@
 
 /**
  * mul - a function that multiplies two integers.
- * @a,b:characters to be checked
+ * @a:First character
+ * @b:second character to be checked
  *
  * Return: Always 0
  */
@@ -12,6 +13,6 @@ int mul(int a, int b)
 {
 	int mult;
 
-	mult = a*b;
+	mult = a * b;
 	return (mult);
 }
