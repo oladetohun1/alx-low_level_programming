@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 /**
- * int _isupper -  a function that checks for uppercase character.
+ * _isupper -  a function that checks for uppercase character.
  *
  * @c:character to be checked
- *
+ * 
  * Return: Always 0
  */
 
