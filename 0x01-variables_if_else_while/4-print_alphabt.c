@@ -1,4 +1,4 @@
-#include <stdio.h>8
+#include <stdio.h>
 
 /**
  * main - Entry level
