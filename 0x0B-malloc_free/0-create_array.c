@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 /**
- * create_array -> A function that creates an array of chars, and initializes it wi with a specific char
+ * create_array -> A function that creates an array of chars, and initializes
+ * it wi with a specific char
  * @size: The size of the charcter to be operated on
  * @c: the type
  * Return: If size == 0 or the function fails - NULL.
@@ -12,10 +13,8 @@
 char *create_array(unsigned int size, char c)
 {
 	char *array;
-
 	unsigned int index;
-	
-	
+
 	if (size == 0)
 		return (NULL);
 	array = malloc(sizeof(char) * size);
